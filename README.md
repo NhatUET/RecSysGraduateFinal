@@ -1,3 +1,3 @@
 # RecSysGraduateFinal
-Collaborative Filering using LightGCN 
-Content-based and Demorgraphic 
+* Collaborative Filering using LightGCN 
+* Content-based and Demorgraphic 
